@@ -20,7 +20,7 @@ namespace Homework5
             //Task1();
             //Task2();
             //Task3();
-            Task4();
+            //Task4();
         }
 
         private static void Task1()
